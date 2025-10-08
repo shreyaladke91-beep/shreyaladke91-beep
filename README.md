@@ -16,3 +16,4 @@
 - 😄 Pronouns: she/her🌈
 - ⚡ Fun fact: I analyze Taylor Swift lyrics like datasets—looking for hidden patterns. 🎵📈
 
+![My Octocat](my_octocat.png)
